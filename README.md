@@ -1,3 +1,6 @@
+This code is associated with the paper from Berlot et al., "A critical re-evaluation of fMRI signatures of motor sequence learning". eLife, 2020. http://dx.doi.org/10.7554/eLife.55241
+
+
 # Motor sequence learning
 
 This repository contains MATLAB code and data related to the Berlot, Popp & Diedrichsen (2020) paper "A critical re-evaluation of fMRI signatures of motor sequence learning". 
